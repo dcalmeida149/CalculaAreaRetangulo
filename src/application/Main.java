@@ -25,6 +25,8 @@ public class Main {
 		System.out.printf("\nDiagonal: %.2f%n",_retangulo.diagonal());
 		System.out.printf("\nPerimetro: %.2f%n",_retangulo.perimetro());
 		
+		sc.close();
+		
 	}
 
 }
